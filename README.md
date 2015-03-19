@@ -9,7 +9,7 @@ C:\Program Files\WindowsPowerShell\Modules\
 
 ```Posh
 Import-Module rsCommon
-```Posh
+```
 
 Get-Command -Module rsCommon
 
